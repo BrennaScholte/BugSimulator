@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 67936d5c02c65854089a18c70983670a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e833aea76eeab744aa6c7426bff4fa28,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3c761e0cb36010247bd09ba926fc6600,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9532c0422a5506041971dcab71c00663,
+      type: 2}
